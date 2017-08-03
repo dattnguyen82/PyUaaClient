@@ -1,9 +1,10 @@
 # PyUaaClient
-Simple python client for UAA
+Simple python client for UAA on [Predix](https://www.predix.io)
 
-# Prerequistes
-
-* [requests](http://docs.python-requests.org/en/master/) 
+## Install
+```
+pip install PyUaaClient
+```
 
 ## Example 
 ```
